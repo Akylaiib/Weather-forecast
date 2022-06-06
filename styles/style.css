@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@400;500&family=Kdam+Thmor+Pro&family=Plus+Jakarta+Sans:wght@600&family=Square+Peg&display=swap');
+body{
+    background-image: url(https://images.all-free-download.com/images/graphiclarge/day_and_night_background_6846707.jpg);
+}
+#header{
+width: 250px;
+height: 45px;
+display: flex;
+}
+#btn{
+    background-color: rgb(8, 35, 66);
+    color: beige;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.card{
+    background: #f8f3f3d0;
+    color: black;
+    padding: 2em;
+    border-radius: 40px;
+    width: 100%;
+    max-width: 200px;
+    align-items: center;
+    margin-top: 20px;
+    font-family:'Kdam Thmor Pro', sans-serif;
+}
